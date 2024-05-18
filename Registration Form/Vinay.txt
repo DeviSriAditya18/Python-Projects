@@ -1,0 +1,3 @@
+Name: Vinay
+Email: vinay@gmail.com
+Password: 123

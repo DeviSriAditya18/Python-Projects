@@ -1,0 +1,3 @@
+Name: Adi
+Email: adi@gmail.com
+Password: 1234
